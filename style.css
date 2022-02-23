@@ -2,24 +2,37 @@ header{
 	margin-bottom: 60px;
 }
 
-div.featured-media-section div.header-img{
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-    overflow: hidden;
-	background-size: cover;
-    background-position: center;
+div.background-img{
+	background-image: url(https://i.postimg.cc/Nj0FDwxg/Art-Palace.jpg);
+	background-color: #cccccc;
+	background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+    height: 500px;
+	width: auto;
 }
 
-div.featured-media-section:after{
-	position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 2;
-    opacity: 0.4;
-    content: "";
-    pointer-events: none;
+div.background-img h1{
+	font-size: 28px;
+	letter-spacing: 0.2rem;
+	color: white;
+	text-align: center;
+	padding-top: 200px;
+	font-family: 'Secular One', sans-serif;
+}
+
+section div.container{
+	background-color: white;
+	margin-top: -90px;
+	padding-top: 50px;
+	position: relative;
+	border-radius: 15px;
+}
+
+p{
+	font-size: 20px;
+	letter-spacing: 0.05rem;
+	line-height:3rem;
 }
