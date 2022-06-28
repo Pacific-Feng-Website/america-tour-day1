@@ -14,7 +14,7 @@ div.background-img{
     background-repeat: no-repeat;
     background-size: cover;
 	background-attachment: fixed;
-	height: 700px ;
+	height: 100% ;
     min-width: 100%;
 	position: relative;
    
