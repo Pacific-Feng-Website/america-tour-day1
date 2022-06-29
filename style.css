@@ -61,13 +61,13 @@ p{
 
 @media only screen and (max-width:1000px){
 	div.background-img{
-	background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/Art-Palace2.jpg);
-	background-color: #cccccc;
-	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-	background-attachment: fixed;
-	height: 100% ;
-    min-width: 100%;
-	position: relative;
+		background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/Art-Palace2.jpg);
+		background-color: #cccccc;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		height: 200px ;
+		width: 100px;
+		position: relative;
 }
