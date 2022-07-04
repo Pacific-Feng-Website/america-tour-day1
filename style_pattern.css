@@ -1,7 +1,7 @@
 /**768:平板，467:手機*/
 
 nav.navbar{
-	border-bottom: 1px solid #ccc;
+	box-shadow: 0 5px 6px -6px #bbb;
 }
 
 
