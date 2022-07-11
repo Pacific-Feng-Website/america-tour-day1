@@ -29,7 +29,7 @@ div.top-pic{
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
-	background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/Chiayi/Chiayi1.jpg);
+	background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/Art-Palace1.jpg);
 	padding: 4rem 0 2rem 0;
 }
 
@@ -452,7 +452,7 @@ h1{
 	font-size: 12px;
 	line-height: 30px !important;
 	color: white;
-	bottom: 1%;
+	bottom: 5px;
 }
 
 @media (max-width: 1400px){
