@@ -452,7 +452,7 @@ h1{
 	font-size: 12px;
 	line-height: 30px !important;
 	color: white;
-	bottom: 5px;
+	bottom: 0%;
 }
 
 @media (max-width: 1400px){
