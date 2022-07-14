@@ -713,23 +713,6 @@ h2{
 	}
 }
 
-@media (max-width: 450px){
-	
-	#recentPost .card-img-overlayer h5{
-		margin-top: 1vh;
-	}
-
-	#recentPost .card-img-overlayer p{
-		line-height: 40px !important;
-	}
-}
-
-@media (max-width: 450px){
-
-	#recentPost .card-img-overlayer p{
-		line-height: 35px !important;
-	}
-}
 
 
 
