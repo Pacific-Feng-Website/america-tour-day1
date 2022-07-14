@@ -36,7 +36,7 @@ div.top-pic{
     background-position: 50%;
     background-size: cover;
 	background-image: url(https://raw.githubusercontent.com/Pacific-Feng/Picture_Storer/main/America1/stanford.jpg);
-	padding: 2rem 0 2rem 0;
+	padding: 2.5rem 0 2rem 0;
 }
 
 @media (min-width: 991px){
